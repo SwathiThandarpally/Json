@@ -1,25 +1,53 @@
 {
-  [
-
+  "RiceList": [
     {
-      "name": "Rice",
-      "price": "100",
-      "weight": "10"
+      "Name": "Basmati Rice",
+      "Weight": 10,
+      "Price": 10
     },
     {
-      "name": "Wheat",
-      "price": "120",
-      "weight": "20"
-
-
+      "Name": "Brown Rice",
+      "Weight": 12,
+      "Price": 20
     },
     {
-      "name": "Pulses",
-      "price": "170",
-      "weight": "10"
-
+      "Name": "Arborio Rice",
+      "Weight": 5,
+      "Price": 50
     }
-
-
+  ],
+  "WheatList": [
+    {
+      "Name": "Sharbati Wheat",
+      "Weight": 15,
+      "Price": 12
+    },
+    {
+      "Name": "Durum Wheat",
+      "Weight": 12,
+      "Price": 22
+    },
+    {
+      "Name": "Khapli Wheat",
+      "Weight": 10,
+      "Price": 30
+    }
+  ],
+  "PulsesList": [
+    {
+      "Name": "Tur",
+      "Weight": 13,
+      "Price": 10
+    },
+    {
+      "Name": "Arhar",
+      "Weight": 12,
+      "Price": 30
+    },
+    {
+      "Name": "Moong",
+      "Weight": 15,
+      "Price": 40
+    }
   ]
 }
